@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolCustomConvertJsonNet", "BoolCustomConvertJsonNet\BoolCustomConvertJsonNet.csproj", "{23648038-0D0B-4570-BF69-3794CB20C052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23648038-0D0B-4570-BF69-3794CB20C052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23648038-0D0B-4570-BF69-3794CB20C052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23648038-0D0B-4570-BF69-3794CB20C052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23648038-0D0B-4570-BF69-3794CB20C052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6965BECE-C697-4871-A1EF-489C69A21F50}
+	EndGlobalSection
+EndGlobal
